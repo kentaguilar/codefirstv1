@@ -1,0 +1,12 @@
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.exe.config
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.exe
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.pdb
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.dll
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.xml
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csprojResolveAssemblyReference.cache
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csproj.CoreCompileInputs.cache
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csproj.CopyComplete
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.exe
+D:\Shared Folder\Quantrics\Projects\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.pdb
